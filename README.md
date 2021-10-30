@@ -1,4 +1,4 @@
-# Population On Blockchain (Flutter + Blockchain)
+# Population VS Vaccinated data On Blockchain (Flutter + Blockchain)
 ## Assignment
 
 Blockchain etherium and flutter based project to manage country wise population 
